@@ -29,6 +29,7 @@ body {
  column-gap: 5%;
 
 
+
 }
 
 
@@ -38,3 +39,13 @@ body {
     background-color: #dcd7d7;
     padding:10px;
 }
+
+
+.box {
+
+    background-color: #fff;
+    padding: 30px;
+    height: 45vh;
+    margin: 10px;
+}
+
